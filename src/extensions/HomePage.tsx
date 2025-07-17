@@ -12,7 +12,7 @@ const features = [
 export const HomePage = ({ user }) => (
   <Layout user={user}>
     <Hero
-      title="TRAIN HARD."
+      title="TRAIN HAcRD."
       highlight="LIVE BETTER"
       subtitle="For the committed"
       image="/uploads/1000_F_163798969_qrl_YJT_24q_CW_5_Wusbvbid7_W6_A_Mc_P_Bsx_FZ_5eb79a7019.jpg"
